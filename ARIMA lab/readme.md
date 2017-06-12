@@ -1,3 +1,5 @@
+sale.jpg
+
 Analysing weekly Walmart sales data over a two year period from 2010 to 2012.The most common application for AR, ARMA, and ARIMA models is inventory planning.
 
 So, the main focus is to
